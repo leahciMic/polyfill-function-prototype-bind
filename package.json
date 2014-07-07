@@ -1,0 +1,23 @@
+{
+  "name": "polyfill-function-prototype-bind",
+  "version": "0.0.0",
+  "description": "Polyfill for Function.prototype.bind. (Source from developer.mozilla.org)",
+  "main": "bind.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:leahciMic/polyfill-function-prototype-bind.git"
+  },
+  "keywords": [
+    "polyfill",
+    "bind"
+  ],
+  "author": "Michael Leaney <leahcimic@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leahciMic/polyfill-function-prototype-bind/issues"
+  },
+  "homepage": "https://github.com/leahciMic/polyfill-function-prototype-bind"
+}
