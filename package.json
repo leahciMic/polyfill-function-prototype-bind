@@ -1,6 +1,6 @@
 {
   "name": "polyfill-function-prototype-bind",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Polyfill for Function.prototype.bind. (Source from developer.mozilla.org)",
   "main": "bind.js",
   "scripts": {
